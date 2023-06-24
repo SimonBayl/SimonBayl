@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Quadratic Optimization problem**
 
-- 🌱 I’m currently learning **LSTM networks, Double Deep Q Networks**
+- 🌱 I’m currently learning **Double Deep Q Networks**
 
 - 📫 How to reach me **baylesimon@orange.fr**
 
