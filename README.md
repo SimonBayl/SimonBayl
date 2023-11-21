@@ -2,9 +2,9 @@
 <h3 align="center">A passionate MLengineer/ Operations Research Analyst from France</h3>
 <img align = "right" alt = "Coding" width="200" src = "https://i.pinimg.com/originals/e6/45/d6/e645d65d3841f06b82d58e74fc221240.gif">
 
-- 🔭 I’m currently working on **Quadratic Optimization problem**
+- 🔭 I’m currently working on **Allocation Optimisation of charging stations for an electrical bus fleet in Quebec**
 
-- 🌱 I’m currently learning **Double Deep Q Networks**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **baylesimon@orange.fr**
 
