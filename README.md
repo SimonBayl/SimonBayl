@@ -2,9 +2,9 @@
 <h3 align="center">A passionate MLengineer/ Operations Research Engineer from France</h3>
 <img align = "right" alt = "Coding" width="200" src = "https://i.pinimg.com/originals/e6/45/d6/e645d65d3841f06b82d58e74fc221240.gif">
 
-- 🔭 I’m currently working on **Allocation Optimization of charging stations for an electrical bus fleet in Quebec**
+- 🔭 I’m currently working on **Optimal power flow**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Electrical skills**
 
 - 📫 How to reach me **baylesimon@orange.fr**
 
