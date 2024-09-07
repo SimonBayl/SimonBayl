@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Electrical skills**
 
-- 📫 How to reach me **baylesimon@orange.fr**
+- 📫 How to reach me **LinkedIn**
 
 
 <h3 align="left">Connect with me:</h3>
